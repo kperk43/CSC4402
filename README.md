@@ -1,10 +1,10 @@
-## Greek Mythology Library Enterprise
-# Usage/Installation
+# Greek Mythology Library Enterprise
+## Usage/Installation
 1. Run the connect.py file
 2. Install faker library if necessary with "pip install faker" executed in terminal 
 3. Run the data_population.py file
 4. Run the gui.py file
-# Test Queries
+## Test Queries
 1. SELECT * FROM Deity; Fetches all deities
 2. SELECT * FROM Hero; Fetches all heroes
 3. DELETE FROM Deity WHERE moniker = 'Zeus'; Deletes Zeus deity from the database
